@@ -1,0 +1,17 @@
+---
+layout: null
+sitemap:
+exclude: 'yes'
+---
+
+/* TEAM */
+Developer & Designer: Ashish Pandey
+Twitter: @newerversion_ap
+Site: http://ashish482.github.io
+Location: India
+						
+/* SITE */
+Last update: {{ site.time | date: "%Y/%m/%d" }}
+Standards: HTML5, CSS3
+Components: Jekyll
+Software: Sublime Text, Photoshop
