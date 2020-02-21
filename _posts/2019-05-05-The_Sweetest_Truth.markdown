@@ -6,6 +6,8 @@ categories: [jekyll]
 ---
 Sugar!! What comes up in your mind when you hear this word. Do the taste buds respond to the image of it? I'll probably consider it a yes. The sweets we eat while celebrating, the soft drinks we consume almost every week, the packaged food we love to carry while on trips, everything has some or more amount of sugar in it. But what if I told you that the taste you enjoy is taking away years from your life . Sugar has a bittersweet reputation when it comes to health. Sugar occurs naturally in all foods that contain carbohydrates, such as fruits and vegetables, grains, and dairy. Adult men take in an average of 24 teaspoons of added sugar per day, according to the National Cancer Institute. That's equal to 384 calories. In a study published in 2014 in JAMA Internal Medicine, Dr. Hu and his colleagues found an association between a high-sugar diet and a greater risk of dying from heart disease. Over the course of the 15-year study, people who got 17% to 21% of their calories from added sugar had a 38% higher risk of dying from cardiovascular disease compared with those who consumed 8% of their calories as added sugar.
 
+![alt text](images/sugar.jpg)
+
 ## I want to lose fat and do not want to hit the gym!
 Are you one of them who wants to lose up belly fat and not hit the gym, feel more energised annd focussed? No am not going to teach you a magic trick, rather I ll share with you a personal story.
 
