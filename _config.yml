@@ -13,7 +13,6 @@ author:
   facebook_username: ashishcool482
   github_username:  ashish482
   linkedin_username: ashish-pandey-0127b9112
-comments: true
 defaults:
   -
     scope:
@@ -21,6 +20,7 @@ defaults:
       type: 'posts'
     values:
         layout: 'post'
+        comments: 'true'
 
 # Build settings
 destination: _site
