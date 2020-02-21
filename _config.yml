@@ -13,7 +13,7 @@ author:
   facebook_username: ashishcool482
   github_username:  ashish482
   linkedin_username: ashish-pandey-0127b9112
-
+comments: true
 defaults:
   -
     scope:
@@ -32,8 +32,6 @@ highlighter: rouge
 sass:
     sass_dir: _sass
     style: compressed
-gems:
-  jekyll-feed
 kramdown:
   # use Github Flavored Markdown
   input: GFM
